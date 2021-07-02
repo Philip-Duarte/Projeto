@@ -8,7 +8,6 @@
   align-items: center;
   background: -moz-linear-gradient(left, #fcfcfc, #91b9c9)no-repeat;
  
-
 }
   /*p  {
     color: rgb(252, 252, 252);
@@ -39,8 +38,7 @@
         text-align: center;
         color: aliceblue;
         padding: 10px;
-        font-style: initial;
-        
+        font-style: initial;  
       }
       
       .div_baixofoto{
@@ -53,14 +51,14 @@
         width: 70%;
         box-shadow: inset 0 0 1em rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0);
       }
+
       .foto_redes{
         display: block;
         position: sticky;
         display: flex;
         width: 100%;
         align-items:center;
-        justify-content: center;
-     
+        justify-content: center;    
       }
 
       .img_perfil{
@@ -86,7 +84,6 @@
         display: table-cell;
         font-family:'Times New Roman', Times, serif;
       }
-
       
       #div_maior{
         border-style: none;
@@ -102,9 +99,9 @@
         border-radius: 2%;
         margin-top: 20px;
         display: flex;
-        flex-direction: row;
-        
+        flex-direction: row;      
       }
+
       #div_esquerda{
         border-style: none;
         background-color: lavender;
@@ -126,6 +123,7 @@
         color: grey;
         background-color: grey;
       }
+
       #linha1{
         margin-top: 25px;
       }
@@ -156,7 +154,6 @@
         font-family: 'Times New Roman', Times, serif;
         font-size: 75%;
         overflow: auto;
-
       }
 
 
